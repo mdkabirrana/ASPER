@@ -1,1 +1,9 @@
-This is the implementation of ASPER paper
+This is the implementation of ASPER paper. The main goal is to extract semantic pattern from sentences.
+Any dataset exhibiting semantic relation is expected to have four columns.
+
+1. X (First word or phrase)
+2. Y (Second word or phrase)
+3. Sentence exhibiting X and Y
+4. Boolean (Does X and Y contain the desired semantic relation?)
+
+
