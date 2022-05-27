@@ -1,4 +1,4 @@
-This is the implementation of ASPER paper. The main goal is to extract semantic pattern from sentences.
+This is the implementation of PatternCausality paper (Informative Causality Extraction from Medical Literature via Dependency-tree based Patterns). The main goal is to extract semantic pattern from sentences.
 Any dataset exhibiting semantic relation is expected to have four columns.
 
 1. X (First word or phrase)
