@@ -10,7 +10,7 @@ Any dataset exhibiting semantic relation is expected to have four columns.
 To run the project run the following files sequentially.
 
 1. AutomaticPatternRecognition.py
-It is expected that the dataset file will be under "dataset" folder, and there are some empty pkl files where the embeddings will be saved
+It is expected that the dataset file will be under "dataset" folder.
 
 2. ItemsetMiningOnAttention.py
 Run this file to extract semantic patterns
